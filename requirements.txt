@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+lifelines
+plotly
+reportlab
+openai>=1.30
